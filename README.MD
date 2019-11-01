@@ -26,4 +26,5 @@ The calculations are validated with Rocket Propulsion Analysis (http://propulsio
 
 Changelog:
 
+0.1.1 Fix upper stage stack issue
 0.1 Early development verion
